@@ -1,0 +1,37 @@
+.text-center{
+    background: #191c1f;
+}
+.index-link-wrapper{
+    margin: 50px 0px 0px 0px;
+}
+
+.index-link{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.toolbar{
+    margin: 30px 0px 0px 33%;
+}
+
+.toolbar-form{
+    display: flex;
+}
+
+.btn{
+    margin: 0px 0px 0px 30px;
+}
+
+.table{
+    margin: 20px auto 0px;
+    width: 80%;
+}
+
+.button-image{
+    width: 25px;
+    height: 25px;
+}
+
+.button-image:last-child{
+    margin: 0px 7px 0px 0px;
+}
